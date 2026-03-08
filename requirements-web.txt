@@ -1,0 +1,3 @@
+# Web dashboard (app.py)
+flask>=2.0.0
+kafka-python>=2.0.2
